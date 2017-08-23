@@ -1,2 +1,2 @@
 # projec2
-test a project 
+sharing a project for making better 
