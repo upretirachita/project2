@@ -88,3 +88,5 @@ myApp.config(['$routeProvider',
         redirectTo: '/englishpage'
       });
 }]);
+
+
